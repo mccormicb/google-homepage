@@ -1,0 +1,1 @@
+This project will be to demonstrate and grow HTML, CSS, and git abilities.
