@@ -1,0 +1,17 @@
+img{
+    height: 20%;
+    width: 20%;
+    margin-left: 300px;
+}
+
+#input-buttons {
+    padding-top: 20px;
+    width: auto;
+    margin-left: 300px
+    
+}
+
+#search-bar {
+    width: auto;
+    margin-left: 300px;
+}
