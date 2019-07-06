@@ -4,6 +4,12 @@ img{
     margin-left: 300px;
 }
 
+ul {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+
 #input-buttons {
     padding-top: 20px;
     width: auto;
