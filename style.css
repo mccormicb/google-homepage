@@ -2,6 +2,20 @@ img{
     height: 20%;
     width: 20%;
     margin-left: 300px;
+    margin-top: 50px;
+}
+
+.top-left {
+    float: left;
+    display: block;
+    padding: 10px;
+}
+
+.top-right {
+    float: right;
+    display: block;
+    padding: 10px;
+   
 }
 
 ul {
@@ -10,7 +24,16 @@ ul {
     padding: 0;
 }
 
-#input-buttons {
+li {
+    display: inline;
+}
+
+a {
+    color: #444238;s
+    text-decoration: none;
+}
+
+.input-buttons {
     padding-top: 20px;
     width: auto;
     margin-left: 300px
@@ -20,4 +43,22 @@ ul {
 #search-bar {
     width: auto;
     margin-left: 300px;
+}
+
+#bottom-left {
+    float: left;
+    display: block;
+    padding: 8px;
+    margin-top: 200px;
+}
+
+#bottom-right {
+    float: right;
+    display: block;
+    padding: 8px;
+    margin-top: 200px;
+}
+
+.bottom-nav-bar {
+    display: inline;
 }
